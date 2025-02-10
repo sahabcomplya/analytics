@@ -2,10 +2,6 @@
 title: Open Enrollment Analysis Done
 ---
 
-<Details title="How to edit this page">
-  This page can be found in your project at `/pages/your-page.md`. 
-  Make a change to the markdown file and save it to see the change take effect in your browser.
-</Details>
 
 ```sql all_years
 SELECT DISTINCT "Year" AS year
